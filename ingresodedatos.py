@@ -25,3 +25,9 @@ data = input("Ingrese un dato en formato bytes:")
 data_bytes = data.encode('utf-8')
 #Mostrar en pantalla el dato ingresado por el usuario en formato bytes  
 print("El dato ingresado en formato bytes es:", data_bytes)
+
+#ingresar un datos en formato bytearray, se puede usar para representar datos binarios mutables, es decir, se puede modificar los datos almacenados 
+#en el bytearray
+mutable_data_input = input("Ingrese un dato en formato bytearray:")
+#Convertir el dato ingresado a bytearray y almacenarlo en la variable mutable_data  
+mutable_data = bytearray(mutable_data_input.encode('utf-8'))
