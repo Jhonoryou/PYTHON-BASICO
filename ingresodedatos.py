@@ -31,3 +31,17 @@ print("El dato ingresado en formato bytes es:", data_bytes)
 mutable_data_input = input("Ingrese un dato en formato bytearray:")
 #Convertir el dato ingresado a bytearray y almacenarlo en la variable mutable_data  
 mutable_data = bytearray(mutable_data_input.encode('utf-8'))
+
+
+
+# EXITEN TIPO DE DATOS PRIMITIVOS Y COMPUESTOS, LOS PRIMITIVOS SON LOS QUE NO PUEDEN SER DIVIDIDOS EN PARTES MAS PEQUEÑAS, 
+# COMO LOS NUMERO ENTEROS, FLOTANTES, 
+# BOOLEANOS Y LOS COMPUESTOS SON LOS QUE PUEDEN SER DIVIDIDOS EN PARTES MAS PEQUEÑAS, COMO LAS LISTAS, TUPLAS, DICCIONARIOS, CONJUNTOS,ETC.
+
+# Existen dos formas de comentar en python, los comentarios de una sola linea se hacen con el simbolo # y los comentarios de varias lineas se hacen con 
+# """ o con ''' para encerrar el bloque de texto que se desea comentar, aunque es recomendable usar """ para los comentarios de varias lineas
+# ya que es mas legible y facil 
+# de entender.
+
+
+
