@@ -1,2 +1,4 @@
 # PYTHON-BASICO
 En Python, las variables se definen y se les asigna un tipo de forma automática. A diferencia de otros lenguajes (como Java o C++) donde debes declarar explícitamente el tipo de dato (por ejemplo, int x = 5;), en Python no se definen las variables de la forma tradicional, sino que se crean en el momento en que les asignas un valor por primera vez.
+
+

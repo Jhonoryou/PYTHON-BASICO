@@ -12,7 +12,6 @@ age = int(input("Ingrese su edad:"))
 
 #Mostrar en pantalla la edad ingresada por el usuario
 print("La edad ingresada es:", age)
-
 #Ingresar un numero flotante
 height = float(input("Ingrese su altura en metros:"))
 #Mostrar en pantalla la altura ingresada por el usuario

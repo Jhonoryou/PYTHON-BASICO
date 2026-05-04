@@ -1,6 +1,6 @@
 # A diferencia de otros lenguajes, en python la variable no tiene un tipo definido y es practimente dinamica 
-# Ejemplo java: int numero = 5; y en python: numero = 5
-
+# Ejemplo java: int numero = 5; y en python: numero = 
+#
 # Se puede usar '' o "" para definir una variable de tipo string, aunque es recomendable usar "" 
 # para evitar problemas con las comillas simples dentro de una cadena de texto y para mejorar la legibilidad del codigo
 #Variable de tipo String
